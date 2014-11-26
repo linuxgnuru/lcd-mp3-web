@@ -10,4 +10,6 @@ libao-dev
 libmpg123
 mpg321
 
+You'll also need wiringPi which can be found here: http://wiringpi.com/download-and-install/
+
 This is all from memory, so if I've missed anything, (i.e. it won't compile for you) please let me know so I can update this list.
