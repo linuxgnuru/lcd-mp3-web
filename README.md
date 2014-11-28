@@ -8,6 +8,7 @@ libao
 libao-common
 libao-dev
 libmpg123
+libmpg123-dev
 mpg321
 
 You'll also need wiringPi which can be found here: http://wiringpi.com/download-and-install/
